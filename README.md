@@ -3,6 +3,7 @@
 Bianca Chirica<br>
 December 2018<br>
 </b>
+Limbaj : C <br>
 <br>
 <b>1 Introduction </b> <br>
 <p>Proiectul QuizzGame reprezinta un server multithreading care suporta clientii
@@ -30,7 +31,7 @@ impreuna cu raspunsurile voi folosi SQLite3.
 4 Detalii de implementare <br>
 </b>
 <ul>
-<li> Serverul va comunica cu clientii prin intermediul unui socket : </li>
+<li> Serverul va comunica cu clientii prin intermediul unui socket. </li>
 <li> Dupa acceptarea clientilor server-ul va forma cate un thread pentru fiecare
   client cu functia pthread create. </li>
 <li> In interiorul thread-ului voi folosi functia select pentru a astepta raspunsul
