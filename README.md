@@ -4,7 +4,7 @@ Bianca Chirica<br>
 December 2018<br>
 </b>
 <br>
-<b>1 Introduction <b> <br>
+<b>1 Introduction </b> <br>
 <p>Proiectul QuizzGame reprezinta un server multithreading care suporta clientii
 care raspund la un set de intrebari pe rand, in ordinea in care s-au inregistrat.
 Fiecarui client i se pune o intrebare si are un numar n de secunde pentru a
